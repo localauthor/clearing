@@ -1,0 +1,9 @@
+#+title:
+#+options: html-postamble:nil creator:nil author:nil
+
+
+
+
+        [[https://localauthor.github.io/clearing/lineaments.html][lineaments.html]]
+
+        [[https://localauthor.github.io/clearing/concessions.html][concessions.html]]
